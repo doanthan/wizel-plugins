@@ -1,0 +1,15 @@
+{
+  "name": "wizel",
+  "description": "Wizel for Claude: your stores' email marketing, from your own assistant.",
+  "owner": {
+    "name": "Wizel",
+    "url": "https://www.wizel.ai"
+  },
+  "plugins": [
+    {
+      "name": "wizel",
+      "source": "./plugins/wizel",
+      "description": "Plan, make and review email marketing for your Shopify stores in Wizel."
+    }
+  ]
+}

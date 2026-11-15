@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wizel": {
+      "type": "http",
+      "url": "https://www.wizel.ai/api/mcp/mcp"
+    }
+  }
+}
