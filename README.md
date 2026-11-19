@@ -4,10 +4,11 @@ Plan, make and review email marketing for your Shopify stores in [Wizel](https:/
 
 ## Claude (web, desktop, Cowork)
 
-1. Open [Customize › Plugins](https://claude.ai/customize/plugins).
-2. Click **Add › Add marketplace** and enter `doanthan/wizel-plugins`.
+1. Open [Plugins](https://claude.ai/plugins).
+2. Click **Add › Add marketplace › Add from a repository**, enter `doanthan/wizel-plugins`, choose it in the list and click **Sync**.
 3. Open **Wizel** and click **Add**.
-4. On its **Connectors** tab, add and connect Wizel, then sign in with your Wizel account.
+4. Click **Connect** beside Wizel, then **Continue › Add**.
+5. Sign in to Wizel, pick your stores and click **Allow**.
 
 The plugin is saved to your Claude account, so Claude Code gets it too.
 
